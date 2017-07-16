@@ -16,7 +16,7 @@ public class NoAppScope implements ServletContextAttributeListener {
      */
     public void attributeAdded(ServletContextAttributeEvent arg0)  { 
          // TODO Auto-generated method stub
-    	System.out.println("警告: アプリケーションスコープの利用は禁止しています。");
+    	System.out.println("警告: アプリケーションスコープの利用は禁止しています。 ");
     }
 
 	/**
