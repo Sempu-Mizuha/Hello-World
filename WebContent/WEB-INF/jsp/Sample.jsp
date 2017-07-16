@@ -7,6 +7,7 @@
 <title>Sample</title>
 </head>
 <body>
-おあおあお青々あ
+おあおあお青々あ<br>
+本日は晴天なり
 </body>
 </html>
